@@ -1,6 +1,7 @@
 *.o
 *.dot
 *.output
+y.tab.c
 miniL
 miniL-lex.cpp
 miniL-parser.cpp
