@@ -26,7 +26,7 @@
  std::string new_temp();
  std::string new_label();
 
- FILE * yyin;
+  extern FILE * yyin;
 %}
 
 %union{
